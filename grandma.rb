@@ -6,4 +6,4 @@ def speak_to_grandma(string)
   else
     return "I LOVE YOU TOO PUMPKIN!"
   end
-  
+end
